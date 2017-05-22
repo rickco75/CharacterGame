@@ -1,0 +1,26 @@
+﻿@model List<CharacterGame.Models.Character>
+
+<h1>Characters</h1>
+
+<p>
+    <a asp-action="Create" asp-controller="Character">Create new character</a>
+</p>
+
+<h2>Add a character:</h2>
+<hr />
+
+@*<form asp-action="Create" asp-controller="Home">
+    <div>
+        <div>Character Name <input name="CharacterName" /></div>
+        <div>Character Type <input name="CharacterType" /></div>
+        <input type="submit" value="Add Character" />
+    </div>
+</form>*@
+<hr />
+<h2>Current Characters</h2>
+<div>
+    
+        @foreach(var item in Model) { 
+            <a asp-action="Details" asp-controller="Character" asp-route-name="@item.Name">@item.Name is a @item.Type</a>
+        }
+</div>

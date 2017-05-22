@@ -1,0 +1,9 @@
+c:\users\rick\documents\visual studio 2017\Projects\CharacterGame\CharacterGame\bin\Debug\netcoreapp1.1\CharacterGame.deps.json
+c:\users\rick\documents\visual studio 2017\Projects\CharacterGame\CharacterGame\bin\Debug\netcoreapp1.1\CharacterGame.runtimeconfig.json
+c:\users\rick\documents\visual studio 2017\Projects\CharacterGame\CharacterGame\bin\Debug\netcoreapp1.1\CharacterGame.runtimeconfig.dev.json
+c:\users\rick\documents\visual studio 2017\Projects\CharacterGame\CharacterGame\bin\Debug\netcoreapp1.1\CharacterGame.dll
+c:\users\rick\documents\visual studio 2017\Projects\CharacterGame\CharacterGame\bin\Debug\netcoreapp1.1\CharacterGame.pdb
+c:\users\rick\documents\visual studio 2017\Projects\CharacterGame\CharacterGame\obj\Debug\netcoreapp1.1\CharacterGame.csprojResolveAssemblyReference.cache
+c:\users\rick\documents\visual studio 2017\Projects\CharacterGame\CharacterGame\obj\Debug\netcoreapp1.1\CharacterGame.AssemblyInfo.cs
+c:\users\rick\documents\visual studio 2017\Projects\CharacterGame\CharacterGame\obj\Debug\netcoreapp1.1\CharacterGame.dll
+c:\users\rick\documents\visual studio 2017\Projects\CharacterGame\CharacterGame\obj\Debug\netcoreapp1.1\CharacterGame.pdb
